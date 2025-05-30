@@ -10,8 +10,8 @@ This project was originally created 2 years ago when I had just learned CSS. Rec
 ## 📸 Screenshots
 
 | Desktop View |
-| ![Desktop](Capture.JPG) 
-
+| ![Desktop](Capture.JPG)
+![Desktop](Capture2.JPG)
 
 ## 🛠️ Technologies Used
 
@@ -36,16 +36,12 @@ This project was originally created 2 years ago when I had just learned CSS. Rec
 - Structuring code better for real-world projects
 - Rewriting and improving older code using my current front-end skills
 
-
 ## 🙋‍♂️ Author
+
 **Priyanshu Sharma**  
 Frontend Developer  
-📧 Connect with me: [LinkedIn](linkedin.com/in/priyanshu-sharma-123408251) | [GitHub](https://github.com/Priyanshu579) 
-
+📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/priyanshu-sharma-123408251) | [GitHub](https://github.com/Priyanshu579)
 
 ## 📜 License
 
 This project is created for educational and portfolio purposes only. It is not intended for commercial use or redistribution.
-
-
-
